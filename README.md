@@ -1,0 +1,2 @@
+# status
+status.togomat.com
